@@ -27,6 +27,5 @@ The dataset used is the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/breast-cancer-logistic-regression.git
-   cd breast-cancer-logistic-regression
+   git clone https://github.com/JessicaComfortGrant/Breast_Cancer_Project.git
 
