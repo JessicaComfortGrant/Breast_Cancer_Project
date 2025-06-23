@@ -12,7 +12,7 @@ This project applies **logistic regression** to classify breast cancer tumors as
 
 ## 📊 Dataset
 
-The dataset used is the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html) available via `sklearn.datasets`.
+The dataset used is the [Logistic Regression To detect Breast Cancer]([https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html](https://www.kaggle.com/code/sahityasetu/logistic-regression-to-detect-breast-cancer/notebook)) available via `kaggle.com`.
 
 ## 🛠️ Technologies & Libraries
 
