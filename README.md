@@ -29,3 +29,21 @@ The dataset used is the [Logistic Regression To detect Breast Cancer](https://ww
    ```bash
    git clone https://github.com/JessicaComfortGrant/Breast_Cancer_Project.git
 
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the notebook
+   ```bash
+   jupyter notebook Breast_Cancer_Analysis.ipynb
+
+## 📈 Model Evaluation
+
+- Accuracy score
+- Confusion matrix
+- Classification report (precision, recall, f1-score)
+- Visualizations for data distribution and model performance
+
+## 📷 Sample Visualizations
+
+- Heatmap of feature correlations
